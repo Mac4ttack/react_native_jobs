@@ -50,3 +50,9 @@ const useFetch = (endpoint, query) => {
 }
 
 export default useFetch;
+
+//q: expo cannot resolve module 'APP_ENV' in 'C:\Users\user\Documents\GitHub\react-native-recipe-app\hooks\useFetch.js'
+
+
+
+
