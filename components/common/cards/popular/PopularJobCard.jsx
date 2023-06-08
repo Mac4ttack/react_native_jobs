@@ -11,4 +11,4 @@ const PopularJobCard = () => {
   )
 }
 
-export default PopularJobCard
+export default PopularJobCard;
